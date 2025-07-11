@@ -14,11 +14,11 @@ Student Info
 
 Course Info
 
-![image alt]()
+![image alt](https://github.com/M-MAHAD1/Multi-Activity_Database-_Android_App/blob/main/image1.jfif)
 
 Teacher Info
 
-![image alt]()
+![image alt](https://github.com/M-MAHAD1/Multi-Activity_Database-_Android_App/blob/main/image2.jfif)
 
 Each button opens a new screen (activity).
 
