@@ -10,7 +10,7 @@ Main screen with 3 buttons:
 
 Student Info
 
-![image alt]()
+![image alt](https://github.com/M-MAHAD1/Multi-Activity_Database-_Android_App/blob/main/image3.jfif)
 
 Course Info
 
