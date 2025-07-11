@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Course Name -->
+    <EditText
+        android:id="@+id/etCourseName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Course Name"
+        android:inputType="text" />
+
+    <!-- Course Code -->
+    <EditText
+        android:id="@+id/etCourseCode"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Course Code"
+        android:inputType="text" />
+
+    <!-- Credit Hours -->
+    <EditText
+        android:id="@+id/etCreditHours"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Credit Hours"
+        android:inputType="number" />
+
+    <!-- Add Button -->
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Course" />
+
+    <!-- List View -->
+    <ListView
+        android:id="@+id/listViewCourses"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"
+        android:paddingTop="10dp" />
+</LinearLayout>
