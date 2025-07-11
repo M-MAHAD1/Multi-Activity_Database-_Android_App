@@ -1,4 +1,4 @@
-Project Name: Multi-Activity Android App with Database (Kotlin)
+Multi-Activity Android App with Database (Kotlin)
 
 Description:
 
